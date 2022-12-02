@@ -1,5 +1,5 @@
 -  Hi, I’m Dharani Sai
--  I’m interested in cyber techmology
+-  I’m interested in cyber technology
 -  I’m currently learning computer science with cyber security and block chain
 -  I’m looking to collaborate on tesla group of companies
 
